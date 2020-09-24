@@ -10,3 +10,5 @@ This repo contains a couple programs that I thought it would be cool to program.
 `PygToEng.py` takes Pig Latin and translates it back into English.
 
 `webcrawler.py` is a simple script that I developed to talk about web scraping for a lightening talk for the 2018 Dataquest Chicago off-site.
+
+`webcrawler_txt` is the data pulled by `webcrawler.py`.
